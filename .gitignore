@@ -1,0 +1,13 @@
+data/GSE143706/**
+data/leuven_merge_ALL.mtx
+data/leuven_merge_ALL_cellMeta.csv
+data/leuven_merge_ALL_geneMeta.csv
+data/*.h5ad
+mapping_data_to_the_HLCA/data/HLCA_emb_and_metadata.h5ad
+mapping_data_to_the_HLCA/data/HLCA_reference_model/attr.pkl
+mapping_data_to_the_HLCA/data/HLCA_reference_model/model_params.pt
+mapping_data_to_the_HLCA/data/HLCA_reference_model/var_names.csv
+results/correction_mnnpy/**
+results/label_transfer/**
+
+
