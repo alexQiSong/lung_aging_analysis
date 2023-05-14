@@ -18,7 +18,9 @@
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 # Getting Started
 ## 1 Introduction
-This repository includes analysis script files for the manuscript.  
+This repository includes analysis script files for the manuscript.
+
+![Alt text](img/fig1_flow.png?raw=true "flowchart")
 ## 2 Installation
 We provide conda environment files to install all necessary packages for users interested in running the analyses in the manuscript. Clone this repository and under the root folder of the repository, you can find `lung_aging.yml` and `HLCA_mapping_env.yml`, where the former is for running most of the analyses and reproducing figures in the manuscript and the latter is for running cell type label transfer between query dataset and the HLCA dataset. You may install this two environments by
 ```bash
